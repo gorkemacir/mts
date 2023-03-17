@@ -1,2 +1,3 @@
 # mts
-algorithm questions we solve within the team
+Çözüm sağladığım algoritma sorularına master branch'inden erişebilirsiniz.
+https://github.com/gorkemacir/mts/tree/master
